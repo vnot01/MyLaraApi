@@ -59,9 +59,15 @@
         php artisan migrate
         ``` 
 - Choose **YES** to Create IT
+![Migration Database SQLite](/assets-md/migrate-ss.png)
 
 - Install Extension REST Cient:
-Extension ID (Visual Studio Code)= humao.rest-client
+**Extension ID (Visual Studio Code [how to VS Code Instalation](https://code.visualstudio.com/))**
+    * Extension ID:
+        ```sh
+        humao.rest-client
+        ``` 
+![Extension REST Cient](/assets-md/extension-ss.png)
 
 - Run your Apps:
     * php:
