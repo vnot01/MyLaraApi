@@ -113,7 +113,7 @@ Authorization: e5dc5c97-e03f-4c69-bb82-23a6c95144ed
     "postal_code": "324234"
 }
 
-### Remove Address API from AddressId#24
+### Remove Address API from AddressId #24
 DELETE http://localhost:8000/api/contacts/250/addresses/24
 Accept: application/json
 Authorization: e5dc5c97-e03f-4c69-bb82-23a6c95144ed
